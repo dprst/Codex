@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "id": "issue-2026-03-24",
+    "date": "2026-03-24",
+    "timezone": "Europe/Kyiv",
+    "updated_at": "2026-03-24T08:30:00+02:00"
+  },
+  "editorial_intro": {
+    "uk": "Тон вчорашнього випуску: глобальна конкуренція за таланти та технології прискорюється, а репутаційна стабільність стає конкурентною перевагою.",
+    "en": "Yesterday’s tone: global competition for talent and technology is accelerating, while reputational stability becomes a competitive advantage."
+  },
+  "top_signals": [
+    {
+      "uk": "Клімат і енергетика повертаються у top-tier порядок денний великих корпорацій.",
+      "en": "Climate and energy have returned to top-tier agendas for major corporations.",
+      "importance": "high",
+      "score": 84
+    },
+    {
+      "uk": "Платформені політики контент-модерації впливають на тон брендових повідомлень.",
+      "en": "Platform moderation policies are influencing brand messaging tone.",
+      "importance": "watch",
+      "score": 72
+    },
+    {
+      "uk": "Інформаційна гігієна стає критичною в B2B комунікаціях.",
+      "en": "Information hygiene is becoming critical in B2B communications.",
+      "importance": "high",
+      "score": 81
+    }
+  ],
+  "briefs": {
+    "global": [
+      {
+        "category": "climate_energy",
+        "headline": {
+          "uk": "IEA оновлює аналітику щодо глобальних енергетичних трендів.",
+          "en": "IEA updates analytics on global energy trends."
+        },
+        "summary": {
+          "uk": "Нові сценарії підсвічують ризики та можливості для індустрій із високою енергозалежністю.",
+          "en": "New scenarios highlight risk and opportunity for energy-intensive industries."
+        },
+        "why_it_matters": {
+          "uk": "Енергетичний контекст напряму впливає на ESG-комунікації та інвесторські меседжі.",
+          "en": "Energy context directly influences ESG and investor messaging."
+        },
+        "comms_implication": {
+          "uk": "Сильніше поєднувати операційні цифри зі зрозумілою мовою впливу для стейкхолдерів.",
+          "en": "Connect operational metrics with clear stakeholder-impact language."
+        },
+        "importance": "high",
+        "score": 82,
+        "published_at": "2026-03-23",
+        "sources": [
+          {
+            "name": "International Energy Agency",
+            "url": "https://www.iea.org/reports"
+          }
+        ]
+      }
+    ],
+    "ukraine": [
+      {
+        "category": "politics",
+        "headline": {
+          "uk": "Комунікаційний фокус українського порядку денного залишається на безпеці та стійкості.",
+          "en": "Ukrainian agenda communications remain focused on security and resilience."
+        },
+        "summary": {
+          "uk": "Публічні меседжі інституцій продовжують підкреслювати стратегічну координацію та міжнародну підтримку.",
+          "en": "Public institutional messaging continues to emphasize strategic coordination and international support."
+        },
+        "why_it_matters": {
+          "uk": "Зберігає високий запит на точність формулювань і фактчек у медіапросторі.",
+          "en": "Maintains high demand for precise wording and fact-checking in the media environment."
+        },
+        "comms_implication": {
+          "uk": "Внутрішні й зовнішні повідомлення бізнесу мають бути синхронізовані за цінностями та фактами.",
+          "en": "Internal and external business messages should be aligned on values and facts."
+        },
+        "importance": "high",
+        "score": 80,
+        "published_at": "2026-03-24",
+        "sources": [
+          {
+            "name": "Кабінет Міністрів України",
+            "url": "https://www.kmu.gov.ua/en/news"
+          }
+        ]
+      }
+    ]
+  },
+  "pro_block": {
+    "items": [
+      {
+        "topic": "crisis_protocols",
+        "title": {
+          "uk": "Кризові протоколи: швидкість + доказовість",
+          "en": "Crisis protocols: speed + evidence"
+        },
+        "insight": {
+          "uk": "У кризовій фазі головна цінність — швидкий фактологічний каркас до появи повних даних.",
+          "en": "In crisis mode, the top value is a rapid factual framework before full data arrives."
+        },
+        "application": {
+          "uk": "Тримай pre-approved skeleton statement для перших 30 хвилин події.",
+          "en": "Keep a pre-approved skeleton statement for the first 30 minutes of an incident."
+        },
+        "sources": [
+          {
+            "name": "Institute for Public Relations",
+            "url": "https://instituteforpr.org/"
+          }
+        ]
+      }
+    ]
+  },
+  "research_radar": [
+    {
+      "type": "report",
+      "title": "Digital News Report",
+      "why_read": {
+        "uk": "Корисно для розуміння зміни споживання новин і довіри до медіа.",
+        "en": "Useful for understanding shifts in news consumption and media trust."
+      },
+      "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0d5257" />
+    <title>Daily Newsletter PWA</title>
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1>Daily Newsletter</h1>
+        <p id="dateLine" class="date-line"></p>
+      </div>
+      <div class="controls">
+        <label>
+          <span class="visually-hidden">Language</span>
+          <select id="langSelect" aria-label="Language">
+            <option value="uk">Українська</option>
+            <option value="en">English</option>
+          </select>
+        </label>
+        <button id="installBtn" class="ghost" hidden>Install</button>
+      </div>
+    </header>
+
+    <nav class="tabs" aria-label="Main navigation">
+      <button class="tab active" data-view="today" id="tabToday">Today</button>
+      <button class="tab" data-view="archive" id="tabArchive">Archive</button>
+      <button class="tab" data-view="method" id="tabMethod">Method</button>
+    </nav>
+
+    <main>
+      <section id="viewToday" class="view active">
+        <article id="hero" class="card hero"></article>
+
+        <section class="card">
+          <h2 id="signalsTitle">Top signals</h2>
+          <div id="signals" class="signals-grid"></div>
+        </section>
+
+        <section class="card">
+          <div class="section-head">
+            <h2 id="globalTitle">Global Brief</h2>
+            <select id="globalFilter"></select>
+          </div>
+          <div id="globalList"></div>
+        </section>
+
+        <section class="card">
+          <div class="section-head">
+            <h2 id="ukraineTitle">Ukraine Brief</h2>
+            <select id="ukraineFilter"></select>
+          </div>
+          <div id="ukraineList"></div>
+        </section>
+
+        <section class="card">
+          <h2 id="proTitle">Comms Strategist Intelligence</h2>
+          <div id="proList"></div>
+        </section>
+
+        <section class="card">
+          <h2 id="researchTitle">Research Radar</h2>
+          <div id="researchList"></div>
+        </section>
+      </section>
+
+      <section id="viewArchive" class="view">
+        <section class="card">
+          <div class="section-head">
+            <h2 id="archiveTitle">Archive</h2>
+            <input id="archiveSearch" type="search" placeholder="Search" />
+          </div>
+          <ul id="archiveList" class="archive-list"></ul>
+        </section>
+      </section>
+
+      <section id="viewMethod" class="view">
+        <article class="card">
+          <h2 id="methodTitle">Methodology</h2>
+          <ul id="methodList"></ul>
+        </article>
+      </section>
+    </main>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>

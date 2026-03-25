@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "id": "issue-2026-03-25",
+    "date": "2026-03-25",
+    "timezone": "Europe/Kyiv",
+    "updated_at": "2026-03-25T08:30:00+02:00"
+  },
+  "editorial_intro": {
+    "uk": "Тон дня: ризик-менеджмент і довіра. На перетині геополітики, технологій і регуляторики бізнесам потрібні точні, доказові та людяні наративи.",
+    "en": "Tone of the day: risk management and trust. At the intersection of geopolitics, technology, and regulation, businesses need precise, evidence-based, and human-centered narratives."
+  },
+  "top_signals": [
+    {
+      "uk": "AI governance швидко переходить із policy-рівня в операційну реальність брендів.",
+      "en": "AI governance is rapidly moving from policy into day-to-day operational reality for brands.",
+      "importance": "critical",
+      "score": 92
+    },
+    {
+      "uk": "Кіберстійкість стає частиною публічної репутації, а не лише IT-функцією.",
+      "en": "Cyber resilience is becoming part of public reputation, not only an IT function.",
+      "importance": "high",
+      "score": 86
+    },
+    {
+      "uk": "Український економічний контекст вимагає комунікацій із реалістичними очікуваннями.",
+      "en": "Ukraine’s economic context requires communications with realistic expectations.",
+      "importance": "watch",
+      "score": 76
+    }
+  ],
+  "briefs": {
+    "global": [
+      {
+        "category": "technology",
+        "headline": {
+          "uk": "Єврокомісія випустила детальні роз’яснення щодо визначення AI-систем у межах AI Act.",
+          "en": "The European Commission released detailed guidance on defining AI systems under the AI Act."
+        },
+        "summary": {
+          "uk": "Документ пояснює критерії класифікації систем і зменшує зони невизначеності для бізнесу.",
+          "en": "The document clarifies system classification criteria and reduces compliance uncertainty for companies."
+        },
+        "why_it_matters": {
+          "uk": "Сильніше прив’язує продуктову та комунікаційну стратегії до вимог прозорості AI.",
+          "en": "It ties product and communications strategy more tightly to AI transparency requirements."
+        },
+        "comms_implication": {
+          "uk": "Потрібні чіткі пояснення «як саме AI працює у вашому продукті» для клієнтів і медіа.",
+          "en": "Brands need clear explainers on how AI is used in products for customers and media."
+        },
+        "importance": "critical",
+        "score": 91,
+        "published_at": "2026-01-01",
+        "sources": [
+          {
+            "name": "European Commission AI Act Service Desk",
+            "url": "https://ai-act-service-desk.ec.europa.eu/sites/default/files/2026-01/guide-definition_en.pdf"
+          }
+        ]
+      },
+      {
+        "category": "defense_tech",
+        "headline": {
+          "uk": "NATO продовжує масштабувати DIANA для dual-use deep-tech стартапів.",
+          "en": "NATO continues scaling DIANA for dual-use deep-tech startups."
+        },
+        "summary": {
+          "uk": "Програма посилює екосистему інновацій на стику оборони й цивільних технологій.",
+          "en": "The program strengthens the innovation ecosystem at the defense-civilian technology intersection."
+        },
+        "why_it_matters": {
+          "uk": "Defense-tech дедалі сильніше впливає на інвестиційні та комунікаційні пріоритети.",
+          "en": "Defense tech increasingly shapes investment and communications priorities."
+        },
+        "comms_implication": {
+          "uk": "Для брендів важливо формулювати етичні рамки і societal value своїх рішень.",
+          "en": "Brands should articulate ethical boundaries and societal value of their solutions."
+        },
+        "importance": "high",
+        "score": 83,
+        "published_at": "2026-02-10",
+        "sources": [
+          {
+            "name": "NATO DIANA",
+            "url": "https://www.diana.nato.int/"
+          }
+        ]
+      }
+    ],
+    "ukraine": [
+      {
+        "category": "economy",
+        "headline": {
+          "uk": "НБУ у ключових повідомленнях до монетарного рішення окреслює інфляційні очікування та ризики.",
+          "en": "The NBU outlines inflation expectations and risks in key messages around its monetary decision."
+        },
+        "summary": {
+          "uk": "Оновлені макропараметри формують операційний контекст для бізнес-планування та зовнішніх меседжів.",
+          "en": "Updated macro parameters shape the operating context for business planning and external messaging."
+        },
+        "why_it_matters": {
+          "uk": "Компаніям варто синхронізувати обіцянки росту з реаліями вартості грошей і попиту.",
+          "en": "Companies should align growth promises with realities of cost of capital and demand."
+        },
+        "comms_implication": {
+          "uk": "Рекомендовано фокус на сценаріях, а не на жорстких обіцянках.",
+          "en": "Use scenario-based messaging rather than rigid promises."
+        },
+        "importance": "high",
+        "score": 79,
+        "published_at": "2026-01-01",
+        "sources": [
+          {
+            "name": "Національний банк України",
+            "url": "https://bank.gov.ua/admin_uploads/article/Key_messages_on_monetary_decision_pr_2026-01.pdf"
+          }
+        ]
+      },
+      {
+        "category": "science",
+        "headline": {
+          "uk": "Українські наукові та інноваційні ініціативи дедалі частіше інтегруються в міжнародні програми.",
+          "en": "Ukrainian science and innovation initiatives are increasingly integrated into international programs."
+        },
+        "summary": {
+          "uk": "Міжнародні програми створюють додатковий простір для партнерських історій і репутаційного капіталу.",
+          "en": "International programs create additional space for partnership narratives and reputation capital."
+        },
+        "why_it_matters": {
+          "uk": "Теми R&D та науки стають частиною brand leadership, а не лише CSR-блоку.",
+          "en": "R&D and science themes are becoming part of brand leadership, not just CSR."
+        },
+        "comms_implication": {
+          "uk": "Варто підсилювати комунікацію впливу через кейси людей і команд.",
+          "en": "Strengthen impact messaging through people and team stories."
+        },
+        "importance": "watch",
+        "score": 71,
+        "published_at": "2026-03-20",
+        "sources": [
+          {
+            "name": "Horizon Europe - EU research framework",
+            "url": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en"
+          }
+        ]
+      }
+    ]
+  },
+  "pro_block": {
+    "items": [
+      {
+        "topic": "narrative_architecture",
+        "title": {
+          "uk": "Narrative architecture під високий рівень невизначеності",
+          "en": "Narrative architecture for high-uncertainty environments"
+        },
+        "insight": {
+          "uk": "Сильні комунікації поєднують один чіткий master narrative і кілька адаптованих stakeholder-модулів.",
+          "en": "Strong communications combine one clear master narrative with several stakeholder-tailored modules."
+        },
+        "application": {
+          "uk": "Онови message house: mission-proof-point-action у форматі 1-3-1.",
+          "en": "Refresh your message house as mission-proof-point-action in a 1-3-1 structure."
+        },
+        "sources": [
+          {
+            "name": "Edelman Trust",
+            "url": "https://www.edelman.com/trust"
+          }
+        ]
+      },
+      {
+        "topic": "behavioral_science",
+        "title": {
+          "uk": "Поведінкові тригери в публічних комунікаціях",
+          "en": "Behavioral triggers in public communication"
+        },
+        "insight": {
+          "uk": "Меседжі з соціальним доказом і конкретним «наступним кроком» дають кращу поведінкову відповідь.",
+          "en": "Messages with social proof and a concrete next step drive stronger behavioral response."
+        },
+        "application": {
+          "uk": "Додай у щотижневі плани A/B тест 2 framing-варіантів для пріоритетних аудиторій.",
+          "en": "Add weekly A/B tests of two framing variants for priority audiences."
+        },
+        "sources": [
+          {
+            "name": "Behavioural Insights Team",
+            "url": "https://www.bi.team/"
+          }
+        ]
+      }
+    ]
+  },
+  "research_radar": [
+    {
+      "type": "report",
+      "title": "Edelman Trust Barometer",
+      "why_read": {
+        "uk": "Калібрує, як змінюється довіра до інституцій і що це означає для корпоративних наративів.",
+        "en": "Calibrates institutional trust shifts and their implications for corporate narratives."
+      },
+      "url": "https://www.edelman.com/trust"
+    },
+    {
+      "type": "report",
+      "title": "Global Risks Report",
+      "why_read": {
+        "uk": "Додає макрорамку ризиків для стратегічного планування комунікацій.",
+        "en": "Adds a macro risk frame for strategic communications planning."
+      },
+      "url": "https://www.weforum.org/reports/global-risks-report-2026"
+    }
+  ]
+}
