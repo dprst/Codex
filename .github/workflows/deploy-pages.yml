@@ -3,6 +3,7 @@ name: Deploy PWA to GitHub Pages
 on:
   push:
     branches: ["work", "main", "master"]
+    branches: ["work"]
   workflow_dispatch:
 
 permissions:

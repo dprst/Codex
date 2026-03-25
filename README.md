@@ -21,6 +21,7 @@ python -m http.server 8000
 ## Деплой (GitHub Pages)
 
 У репозиторій додано workflow `.github/workflows/deploy-pages.yml`, який деплоїть сайт на GitHub Pages при пуші в гілку `work`, `main` або `master`.
+У репозиторій додано workflow `.github/workflows/deploy-pages.yml`, який деплоїть сайт на GitHub Pages при пуші в гілку `work`.
 
 Щоб увімкнути:
 
@@ -30,6 +31,10 @@ python -m http.server 8000
 4. Відкрити URL із кроку деплою (вигляд: `https://<owner>.github.io/<repo>/`).
 
 > Примітка: workflow уже примусово запускає JavaScript actions на Node 24 (`FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true`), щоб уникнути попередження про deprecation Node 20.
+
+2. Запушити гілку `work` у віддалений репозиторій.
+3. Дочекатися completion workflow **Deploy PWA to GitHub Pages**.
+4. Відкрити URL із кроку деплою (вигляд: `https://<owner>.github.io/<repo>/`).
 
 ## Дані
 
