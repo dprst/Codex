@@ -5,6 +5,24 @@
     "timezone": "Europe/Kyiv",
     "updated_at": "2026-03-25T08:30:00+02:00"
   },
+  "header": {
+    "uk": "Wednesday, 25 March 2026 · Daily Brief",
+    "en": "Wednesday, 25 March 2026 · Daily Brief"
+  },
+  "editorial_intro": {
+    "uk": "Сьогоднішній випуск зроблено у форматі більш глибокого briefing: більше контексту, більше практичних висновків і обов'язкові гіперпосилання на першоджерела для кожної ключової новини.",
+    "en": "Today’s issue uses a deeper briefing format: more context, more practical implications, and mandatory primary-source hyperlinks for each key story."
+  },
+  "top_signals": [
+    {
+      "uk": "Близький Схід формує глобальний інформаційний порядок денний і впливає на ризики для України.",
+      "en": "Middle East escalation is shaping the global agenda and affecting Ukraine’s risk environment.",
+      "importance": "critical",
+      "score": 93
+    },
+    {
+      "uk": "Ринки закладають одночасно деескалацію і інфляційний ризик — комунікації мають бути сценарними.",
+      "en": "Markets are pricing both de-escalation and inflation risk; communications should be scenario-based.",
   "editorial_intro": {
     "uk": "Тон дня: ризик-менеджмент і довіра. На перетині геополітики, технологій і регуляторики бізнесам потрібні точні, доказові та людяні наративи.",
     "en": "Tone of the day: risk management and trust. At the intersection of geopolitics, technology, and regulation, businesses need precise, evidence-based, and human-centered narratives."
@@ -23,6 +41,10 @@
       "score": 86
     },
     {
+      "uk": "PR-індустрія зміщується від impressions до impact/ROI — це вікно для стратегів із бізнес-мисленням.",
+      "en": "PR is shifting from impressions to impact/ROI — a window for strategy-led communications professionals.",
+      "importance": "high",
+      "score": 84
       "uk": "Український економічний контекст вимагає комунікацій із реалістичними очікуваннями.",
       "en": "Ukraine’s economic context requires communications with realistic expectations.",
       "importance": "watch",
@@ -32,6 +54,98 @@
   "briefs": {
     "global": [
       {
+        "category": "politics",
+        "headline": {
+          "uk": "США–Іран: переговорний сигнал з Вашингтона і публічне заперечення з Тегерана.",
+          "en": "US–Iran: negotiating signals from Washington, public denial from Tehran."
+        },
+        "summary": {
+          "uk": "Паралельні інформаційні реальності: дипломатичні сигнали супроводжуються ескалаційною риторикою і ударами.",
+          "en": "Parallel information realities: diplomatic signaling coexists with escalatory rhetoric and strikes."
+        },
+        "why_it_matters": {
+          "uk": "Для комунікацій це кейс про конкуренцію наративів і боротьбу за довіру аудиторій.",
+          "en": "For comms, it is a case study in narrative competition and trust capture."
+        },
+        "comms_implication": {
+          "uk": "Розділяти факт, позицію сторони і прогноз у публічних повідомленнях.",
+          "en": "Separate facts, stakeholder positions, and forecasts in external messaging."
+        },
+        "importance": "critical",
+        "score": 92,
+        "published_at": "2026-03-25",
+        "sources": [
+          {
+            "name": "CNN live blog",
+            "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-24-26"
+          },
+          {
+            "name": "Euronews bulletin",
+            "url": "https://www.euronews.com/video/2026/03/25/latest-news-bulletin-march-25th-2026-morning"
+          }
+        ]
+      },
+      {
+        "category": "economy",
+        "headline": {
+          "uk": "Нафта і ризикові активи різко реагують на новини про можливу деескалацію.",
+          "en": "Oil and risk assets react sharply to de-escalation headlines."
+        },
+        "summary": {
+          "uk": "Ринок проходить через швидке перепозиціонування між ескалаційним і мирним сценаріями.",
+          "en": "Markets are rapidly repricing between escalation and peace scenarios."
+        },
+        "why_it_matters": {
+          "uk": "Висока волатильність впливає на комунікації керівництва щодо прогнозів та KPI.",
+          "en": "High volatility impacts executive communications around forecasts and KPIs."
+        },
+        "comms_implication": {
+          "uk": "Комунікувати 2–3 сценарії замість однієї «лінійної» обіцянки.",
+          "en": "Communicate 2–3 scenarios instead of a single linear promise."
+        },
+        "importance": "high",
+        "score": 84,
+        "published_at": "2026-03-25",
+        "sources": [
+          {
+            "name": "S&P Global outlook",
+            "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/03/global-economic-outlook-march-2026"
+          },
+          {
+            "name": "Bloomberg markets",
+            "url": "https://www.bloomberg.com/news/articles/2026-03-24/stock-market-today-dow-s-p-live-updates"
+          }
+        ]
+      },
+      {
+        "category": "technology",
+        "headline": {
+          "uk": "AI переходить у phase of operations: автономні агенти і enterprise-режим.",
+          "en": "AI is moving into an operations phase with autonomous agents and enterprise execution."
+        },
+        "summary": {
+          "uk": "Компанії змагаються не тільки якістю моделей, а й здатністю інтегрувати AI у бізнес-процеси.",
+          "en": "Competition is now about integrating AI into business workflows, not just model quality."
+        },
+        "why_it_matters": {
+          "uk": "Комунікаційна стратегія має пояснювати не «що вміє AI», а «яку бізнес-цінність він дає».",
+          "en": "Comms strategy should explain business value, not just AI capability."
+        },
+        "comms_implication": {
+          "uk": "Фокусувати меседжі на продуктивності, безпеці та відповідальності.",
+          "en": "Focus narratives on productivity, safety, and accountability."
+        },
+        "importance": "high",
+        "score": 83,
+        "published_at": "2026-03-25",
+        "sources": [
+          {
+            "name": "The Neuron digest",
+            "url": "https://www.theneuron.ai/ai-news-digests/around-the-horn-digest-everything-that-happened-in-ai-on-wednesday-march-25-2026-/"
+          },
+          {
+            "name": "Yahoo Finance tech",
+            "url": "https://finance.yahoo.com/news/live/tech-stocks-today-cisco-launches-security-tools-for-ai-agents-sk-hynix-places-8-billion-asml-order-144220180.html"
         "category": "technology",
         "headline": {
           "uk": "Єврокомісія випустила детальні роз’яснення щодо визначення AI-систем у межах AI Act.",
@@ -62,6 +176,32 @@
       {
         "category": "defense_tech",
         "headline": {
+          "uk": "Defense-tech зміщує доктрину в бік data-centric warfare.",
+          "en": "Defense tech is pushing doctrine toward data-centric warfare."
+        },
+        "summary": {
+          "uk": "Palantir Maven і автономні Black Hawk підсилюють тренд людино-машинної кооперації.",
+          "en": "Palantir Maven and pilot-optional Black Hawk reinforce human-machine teaming."
+        },
+        "why_it_matters": {
+          "uk": "Сектор безпеки дедалі більше задає стандарти для цивільної AI-інфраструктури.",
+          "en": "Security-sector adoption increasingly sets standards for civilian AI infrastructure."
+        },
+        "comms_implication": {
+          "uk": "Пояснювати етичні межі й governance в language of trust.",
+          "en": "Explain ethical boundaries and governance in trust-centric language."
+        },
+        "importance": "high",
+        "score": 82,
+        "published_at": "2026-03-25",
+        "sources": [
+          {
+            "name": "Military.com",
+            "url": "https://www.military.com/feature/2026/03/22/pentagon-expands-palantirs-role-ai-contract.html"
+          },
+          {
+            "name": "Defense News",
+            "url": "https://www.defensenews.com/news/your-military/2026/03/24/army-receives-first-pilot-optional-black-hawk-for-testing/"
           "uk": "NATO продовжує масштабувати DIANA для dual-use deep-tech стартапів.",
           "en": "NATO continues scaling DIANA for dual-use deep-tech startups."
         },
@@ -90,6 +230,98 @@
     ],
     "ukraine": [
       {
+        "category": "security",
+        "headline": {
+          "uk": "Масовані удари дронами та ракетами: високий тиск на фронт і тил.",
+          "en": "Mass drone and missile strikes sustain pressure on both front and rear."
+        },
+        "summary": {
+          "uk": "Весняна фаза бойових дій поєднує повітряний терор і наземний тиск.",
+          "en": "The spring phase combines aerial terror with ground pressure."
+        },
+        "why_it_matters": {
+          "uk": "Це формує запит на кризові протоколи комунікацій у бізнесі й інституціях.",
+          "en": "This drives demand for crisis communication protocols across business and institutions."
+        },
+        "comms_implication": {
+          "uk": "Мати заготовлені сценарії повідомлень для інцидентів 24/7.",
+          "en": "Maintain 24/7 pre-approved messaging playbooks for incident scenarios."
+        },
+        "importance": "critical",
+        "score": 93,
+        "published_at": "2026-03-25",
+        "sources": [
+          {
+            "name": "TSN",
+            "url": "https://tsn.ua/ukrayina/nichna-ataka-bpla-ta-sytuatsiia-na-fronti-holovni-novyny-nochi-25-bereznia-2026-roku-3048152.html"
+          },
+          {
+            "name": "Ukrinform",
+            "url": "https://www.ukrinform.ua/"
+          }
+        ]
+      },
+      {
+        "category": "economy",
+        "headline": {
+          "uk": "ЄБРР: збереження макростабільності, але ризики від війни лишаються високими.",
+          "en": "EBRD: macro stability is holding, but war-related risks remain high."
+        },
+        "summary": {
+          "uk": "Прогнози зростання залишаються позитивними, але вразливими до безпекової динаміки.",
+          "en": "Growth forecasts remain positive but sensitive to security dynamics."
+        },
+        "why_it_matters": {
+          "uk": "Бізнес-комунікації мають балансувати optimism і risk disclosure.",
+          "en": "Business communications must balance optimism with risk disclosure."
+        },
+        "comms_implication": {
+          "uk": "Додавати до публічних обіцянок блок «умови/ризики».",
+          "en": "Add explicit assumptions/risk clauses to public commitments."
+        },
+        "importance": "high",
+        "score": 80,
+        "published_at": "2026-03-25",
+        "sources": [
+          {
+            "name": "EBRD",
+            "url": "https://www.ebrd.com/home/news-and-events/news/2026/ukraine-maintains-macroeconomic-stability-despite-war---ebrd-rep.html"
+          },
+          {
+            "name": "CES Ukraine",
+            "url": "https://ces.org.ua/en/tracker-economy-during-the-war/"
+          }
+        ]
+      },
+      {
+        "category": "society_science",
+        "headline": {
+          "uk": "Енергосистема без планових відключень у день пікового соціального інтересу.",
+          "en": "Power system operates without scheduled outages on a high-attention day."
+        },
+        "summary": {
+          "uk": "Невеликий позитивний сигнал для соціального настрою та бізнес-процесів.",
+          "en": "A small but meaningful positive signal for social sentiment and business continuity."
+        },
+        "why_it_matters": {
+          "uk": "Підходить для конструктивних public updates без overpromise.",
+          "en": "Suitable for constructive public updates without overpromising."
+        },
+        "comms_implication": {
+          "uk": "Показувати progress markers, але тримати realistic tone.",
+          "en": "Show progress markers while maintaining a realistic tone."
+        },
+        "importance": "watch",
+        "score": 72,
+        "published_at": "2026-03-25",
+        "sources": [
+          {
+            "name": "Главком",
+            "url": "https://glavcom.ua/country/society/vidkljuchen-svitla-25-bereznja-2026-roku-ne-bude-harni-novini-vid-ukrenerho-1109926.html"
+          },
+          {
+            "name": "EEAS Ukraine",
+            "url": "https://www.eeas.europa.eu/delegations/ukraine/eu-unveils-new-%E2%82%AC15-billion-investment-boost-drive-ukraine%E2%80%99s-recovery-reconstruction-and_en?s=232"
         "category": "economy",
         "headline": {
           "uk": "НБУ у ключових повідомленнях до монетарного рішення окреслює інфляційні очікування та ризики.",
@@ -148,6 +380,165 @@
     ]
   },
   "pro_block": {
+    "lead": {
+      "uk": "Головний зсув: індустрія переходить від охоплень до impact/ROI. Хто говорить мовою бізнес-результату — той виграє бюджет і мандат.",
+      "en": "Main shift: the industry is moving from reach to impact/ROI. Teams that speak the language of business outcomes win budget and mandate."
+    },
+    "items": [
+      {
+        "title": {
+          "uk": "Storytelling знову №1 навичка попри масове впровадження AI",
+          "en": "Storytelling is still #1 despite mass AI adoption"
+        },
+        "insight": {
+          "uk": "91% вже використовують AI, але саме наративна майстерність лишається головним диференціатором.",
+          "en": "91% use AI already, yet narrative craft remains the key differentiator."
+        },
+        "application": {
+          "uk": "Будуй стратегії навколо message architecture, а не навколо tooling.",
+          "en": "Build strategy around message architecture, not tooling."
+        },
+        "sources": [
+          {
+            "name": "Cision Inside PR 2026",
+            "url": "https://www.cision.com/resources/guides-and-reports/2026-inside-pr-report/"
+          }
+        ]
+      },
+      {
+        "title": {
+          "uk": "Від brand awareness до commercial outcomes",
+          "en": "From brand awareness to commercial outcomes"
+        },
+        "insight": {
+          "uk": "C-suite дедалі частіше вимагає вимірюваного впливу комунікацій на pipeline і revenue.",
+          "en": "C-suite increasingly expects measurable communications impact on pipeline and revenue."
+        },
+        "application": {
+          "uk": "У кожному квартальному звіті додай блок attribution та ROI.",
+          "en": "Add attribution and ROI blocks to every quarterly comms report."
+        },
+        "sources": [
+          {
+            "name": "Cision press release",
+            "url": "https://www.cision.com/about/press-releases/2026-press-releases/cision-unveils-inside-pr-2026-the-definitive-report-on-pr-trends-ai-adoption-and-the-future-of-communications-302652945/"
+          },
+          {
+            "name": "The Drum · Mark Ritson",
+            "url": "https://www.thedrum.com/tv/video/mark-ritson-predictions-for-2026"
+          }
+        ]
+      }
+    ]
+  },
+  "comms_metrics": [
+    {
+      "title": {
+        "uk": "Sentiment & Message Pull-Through",
+        "en": "Sentiment & Message Pull-Through"
+      },
+      "description": {
+        "uk": "Вимірює тональність згадок і те, чи медіа передали суть ключових повідомлень бренду.",
+        "en": "Measures mention sentiment and whether media captured your core brand messages."
+      },
+      "formula": "Sentiment Score = (positive mentions / total mentions) × 100",
+      "tools": [
+        {
+          "name": "CisionOne",
+          "url": "https://www.cision.com/"
+        },
+        {
+          "name": "Talkwalker",
+          "url": "https://www.talkwalker.com/"
+        },
+        {
+          "name": "Brandwatch",
+          "url": "https://www.brandwatch.com/"
+        }
+      ]
+    },
+    {
+      "title": {
+        "uk": "Share of Voice (contextual)",
+        "en": "Share of Voice (contextual)"
+      },
+      "description": {
+        "uk": "Показує вашу частку розмови ринку та контекст, у якому вас згадують порівняно з конкурентами.",
+        "en": "Shows your market conversation share and the context of mentions versus competitors."
+      },
+      "formula": "SOV (%) = (your mentions / total category mentions) × 100",
+      "tools": [
+        {
+          "name": "Muck Rack",
+          "url": "https://muckrack.com/"
+        },
+        {
+          "name": "Sprout Social",
+          "url": "https://sproutsocial.com/"
+        },
+        {
+          "name": "Semrush",
+          "url": "https://www.semrush.com/"
+        }
+      ]
+    },
+    {
+      "title": {
+        "uk": "Business Outcomes Attribution",
+        "en": "Business Outcomes Attribution"
+      },
+      "description": {
+        "uk": "Прив’язує PR-комунікації до трафіку, лідів, branded search та revenue attribution.",
+        "en": "Connects PR communications to traffic, leads, branded search, and revenue attribution."
+      },
+      "formula": "PR-attributed Revenue = won deals linked to PR touchpoints",
+      "tools": [
+        {
+          "name": "GA4",
+          "url": "https://analytics.google.com/"
+        },
+        {
+          "name": "Ahrefs",
+          "url": "https://ahrefs.com/"
+        },
+        {
+          "name": "HubSpot",
+          "url": "https://www.hubspot.com/"
+        }
+      ]
+    }
+  ],
+  "research_radar": [
+    {
+      "title": "Edelman–LinkedIn B2B Thought Leadership Impact Report 2025",
+      "why_read": {
+        "uk": "Дає аргументи, як thought leadership конвертується у довіру, premium та комерційні результати.",
+        "en": "Explains how thought leadership converts into trust, premium pricing, and commercial outcomes."
+      },
+      "url": "https://www.edelman.com/expertise/Business-Marketing/2025-b2b-thought-leadership-report"
+    },
+    {
+      "title": "Fortune: Trust insights at Davos",
+      "why_read": {
+        "uk": "Пояснює чому trust-brokering стає ключовою роллю брендів у поляризованому світі.",
+        "en": "Explains why trust-brokering is becoming a core brand role in a polarized world."
+      },
+      "url": "https://fortune.com/2026/01/20/trust-davos-edelman-barometer/"
+    }
+  ],
+  "executive_summary": {
+    "uk": [
+      "Ключова глобальна рамка дня: геополітика + енергоринки + волатильність наративів.",
+      "Для України: високий безпековий тиск і потреба в сценарних комунікаціях для бізнесу.",
+      "Для комстратегії: переходь від охоплень до метрик impact/ROI і attribution."
+    ],
+    "en": [
+      "Global frame: geopolitics + energy markets + narrative volatility.",
+      "Ukraine frame: high security pressure and scenario-based business communications.",
+      "Comms frame: move from reach to impact/ROI and attribution metrics."
+    ]
+  }
+}
     "items": [
       {
         "topic": "narrative_architecture",
